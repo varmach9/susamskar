@@ -1,0 +1,10 @@
+.hoverzoom{
+    transition: all 0.3s ease 0s;
+  width: 100%;
+}
+.hoverzoom:hover {
+    transform: scale(1.25);
+  }
+
+  
+  
