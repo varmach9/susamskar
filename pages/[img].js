@@ -1,4 +1,4 @@
-import {useRouter} from "next/Router"
+import {useRouter} from "next/router"
 import { photos } from "../dummy-data";
 
 export default function FullImage(){
