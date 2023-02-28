@@ -8,7 +8,6 @@ import SwiperCore, { EffectCoverflow, Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.min.css";
 import "swiper/swiper.min.css";
-
 import { SSRProvider } from 'react-bootstrap'
 
 function MyApp({ Component, pageProps }) {

@@ -17,6 +17,7 @@
     "react-multi-carousel": "^2.8.2",
     "react-parallax": "^3.5.1",
     "react-responsive-carousel": "^3.2.23",
-    "swiper": "^6.8.4"
+    "swiper": "^6.8.4",
+    "uuid": "^9.0.0"
   }
 }
